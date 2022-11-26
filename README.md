@@ -1,3 +1,8 @@
-# Css_Grid_sm_Practise
+## Table of contents
 
-### Lanch the site : https://cosmic-chimp.github.io/Css_Grid_sm_Practise/
+- [General info](#general-info)
+
+## General info
+
+Just some practise with css and html
+
